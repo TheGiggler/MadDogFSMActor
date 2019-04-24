@@ -1,0 +1,17 @@
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\bin\Debug\netcoreapp2.1\MadDogFSMActorTester.deps.json
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\bin\Debug\netcoreapp2.1\MadDogFSMActorTester.runtimeconfig.json
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\bin\Debug\netcoreapp2.1\MadDogFSMActorTester.runtimeconfig.dev.json
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\bin\Debug\netcoreapp2.1\MadDogFSMActorTester.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\obj\Debug\netcoreapp2.1\MadDogFSMActorTester.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\obj\Debug\netcoreapp2.1\MadDogFSMActorTester.AssemblyInfoInputs.cache
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\obj\Debug\netcoreapp2.1\MadDogFSMActorTester.AssemblyInfo.cs
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\bin\Debug\netcoreapp2.1\MadDogFSMActorTester.pdb
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\bin\Debug\netcoreapp2.1\MadDogFSM.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\bin\Debug\netcoreapp2.1\MadDogFSM.pdb
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\obj\Debug\netcoreapp2.1\MadDogFSMActorTester.csprojAssemblyReference.cache
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\obj\Debug\netcoreapp2.1\MadDogFSMActorTester.csproj.CopyComplete
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\obj\Debug\netcoreapp2.1\MadDogFSMActorTester.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActorTester\obj\Debug\netcoreapp2.1\MadDogFSMActorTester.pdb

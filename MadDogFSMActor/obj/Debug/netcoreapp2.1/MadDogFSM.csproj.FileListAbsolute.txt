@@ -1,0 +1,14 @@
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\bin\Debug\netcoreapp2.1\MadDogFSM.deps.json
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\bin\Debug\netcoreapp2.1\MadDogFSM.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\obj\Debug\netcoreapp2.1\MadDogFSM.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\obj\Debug\netcoreapp2.1\MadDogFSM.AssemblyInfoInputs.cache
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\obj\Debug\netcoreapp2.1\MadDogFSM.AssemblyInfo.cs
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\bin\Debug\netcoreapp2.1\MadDogFSM.pdb
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\obj\Debug\netcoreapp2.1\MadDogFSM.csprojAssemblyReference.cache
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\obj\Debug\netcoreapp2.1\MadDogFSM.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\obj\Debug\netcoreapp2.1\MadDogFSM.pdb
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\bin\Debug\netcoreapp2.1\MadDogFSM.runtimeconfig.json
+C:\Users\Mike\Source\repos\MadDogFSMActor\MadDogFSMActor\bin\Debug\netcoreapp2.1\MadDogFSM.runtimeconfig.dev.json
